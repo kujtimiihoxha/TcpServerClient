@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="71d15375-b37b-49b5-8f45-c3e0b852d58d" name="Default" comment="Tcp server and client">
+    <list default="true" id="71d15375-b37b-49b5-8f45-c3e0b852d58d" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/netty-all-4.0.31.Final.jar" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/kujtimhoxha/tcp/client/Client.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/kujtimhoxha/tcp/client/ClientHandler.java" />
@@ -532,12 +532,19 @@
       <created>1442436410947</created>
       <option name="number" value="Default" />
       <updated>1442436410947</updated>
-      <workItem from="1442436414209" duration="287000" />
+      <workItem from="1442436414209" duration="446000" />
     </task>
+    <task id="LOCAL-00001" summary="Tcp server and client">
+      <created>1442436714384</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1442436714384</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="287000" />
+    <option name="totallyTimeSpent" value="446000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1378" height="754" extended-state="0" />
